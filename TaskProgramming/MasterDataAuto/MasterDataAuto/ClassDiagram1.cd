@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MasterDataAuto.Interface.Light.Universal">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEEAEAAAAAAAAAAgCAAAECAAAAAQAAACBAAAAAA=</HashCode>
+      <FileName>Interface\Light\Universal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MasterDataAuto.Interface.Light.Suv">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgEAAEAAAAAAAAAAkAAAAEKAAAAAQAAACBAAAAAA=</HashCode>
+      <FileName>Interface\Light\Suv.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MasterDataAuto.Interface.Light.Sedan">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAEAAAAAAAAAAgAAAAECAAAAAQAAACBAAAIAA=</HashCode>
+      <FileName>Interface\Light\Sedan.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.45" />
+  </Class>
+  <Class Name="MasterDataAuto.Interface.Heavy.Awning">
+    <Position X="9.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEQBEAAAAAAAAAAgAAAAECAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Interface\Heavy\Awning.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MasterDataAuto.Interface.Heavy.Van">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEABEAAAAAAAAAAgAAAAECAAAAAAAAAAAAAAAhA=</HashCode>
+      <FileName>Interface\Heavy\Van.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="MasterDataAuto.ILightAuto">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAACBAAAAAA=</HashCode>
+      <FileName>Interface\ILightAuto.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MasterDataAuto.IHeavyAuto">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Interface\IHeavyAuto.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MasterDataAuto.IAuto">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAEAAAAAAAAAAgAAAAECAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IAuto.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

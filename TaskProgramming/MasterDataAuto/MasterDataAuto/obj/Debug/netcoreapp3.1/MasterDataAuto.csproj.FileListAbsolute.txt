@@ -1,0 +1,13 @@
+C:\Users\VEIRAN\source\repos\MasterDataAuto\MasterDataAuto\bin\Debug\netcoreapp3.1\MasterDataAuto.exe
+C:\Users\VEIRAN\source\repos\MasterDataAuto\MasterDataAuto\bin\Debug\netcoreapp3.1\MasterDataAuto.deps.json
+C:\Users\VEIRAN\source\repos\MasterDataAuto\MasterDataAuto\bin\Debug\netcoreapp3.1\MasterDataAuto.runtimeconfig.json
+C:\Users\VEIRAN\source\repos\MasterDataAuto\MasterDataAuto\bin\Debug\netcoreapp3.1\MasterDataAuto.runtimeconfig.dev.json
+C:\Users\VEIRAN\source\repos\MasterDataAuto\MasterDataAuto\bin\Debug\netcoreapp3.1\MasterDataAuto.dll
+C:\Users\VEIRAN\source\repos\MasterDataAuto\MasterDataAuto\bin\Debug\netcoreapp3.1\MasterDataAuto.pdb
+C:\Users\VEIRAN\source\repos\MasterDataAuto\MasterDataAuto\obj\Debug\netcoreapp3.1\MasterDataAuto.csproj.AssemblyReference.cache
+C:\Users\VEIRAN\source\repos\MasterDataAuto\MasterDataAuto\obj\Debug\netcoreapp3.1\MasterDataAuto.AssemblyInfoInputs.cache
+C:\Users\VEIRAN\source\repos\MasterDataAuto\MasterDataAuto\obj\Debug\netcoreapp3.1\MasterDataAuto.AssemblyInfo.cs
+C:\Users\VEIRAN\source\repos\MasterDataAuto\MasterDataAuto\obj\Debug\netcoreapp3.1\MasterDataAuto.csproj.CoreCompileInputs.cache
+C:\Users\VEIRAN\source\repos\MasterDataAuto\MasterDataAuto\obj\Debug\netcoreapp3.1\MasterDataAuto.dll
+C:\Users\VEIRAN\source\repos\MasterDataAuto\MasterDataAuto\obj\Debug\netcoreapp3.1\MasterDataAuto.pdb
+C:\Users\VEIRAN\source\repos\MasterDataAuto\MasterDataAuto\obj\Debug\netcoreapp3.1\MasterDataAuto.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+use masterdata;
+select f.f_name name, sum(g.num) count
+from forwards f
+left join goals g on f.id=g.forward
+group by f.f_name
